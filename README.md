@@ -20,3 +20,6 @@
 
  1. list item 1
  2. list item 2
+
+ Console.WriteLine("Help Me Please I'm still in varsity, get me a free degree please ;/");
+ Console.WriteLine("Who wants to give me a job");
